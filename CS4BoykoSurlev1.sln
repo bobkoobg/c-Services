@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4BoykoSurlev1", "CS4BoykoSurlev1\CS4BoykoSurlev1.csproj", "{EAB1DF45-1357-4619-A759-46544EAF053D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcherService", "..\C sharp Day 9.11 29.04\Smaranda Dungeanu\ArcherService\ArcherService.csproj", "{CB9F94E1-DD14-4AE5-83E2-56FA673A951E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB1DF45-1357-4619-A759-46544EAF053D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB1DF45-1357-4619-A759-46544EAF053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB1DF45-1357-4619-A759-46544EAF053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB1DF45-1357-4619-A759-46544EAF053D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9F94E1-DD14-4AE5-83E2-56FA673A951E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9F94E1-DD14-4AE5-83E2-56FA673A951E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9F94E1-DD14-4AE5-83E2-56FA673A951E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9F94E1-DD14-4AE5-83E2-56FA673A951E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CS4BoykoSurlev1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CS4BoykoSurlev1_localhost_CalculatorService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:52807/CalculatorService.asmx</Value>
+    </Setting>
+    <Setting Name="CS4BoykoSurlev1_localhost2_ArchersService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:52807/ArchersService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

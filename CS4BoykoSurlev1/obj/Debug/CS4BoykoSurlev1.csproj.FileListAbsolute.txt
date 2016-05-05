@@ -1,0 +1,12 @@
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.dll.config
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.dll
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.pdb
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.csprojResolveAssemblyReference.cache
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.dll
+c:\users\bobkoo\documents\visual studio 2013\Projects\CS4BoykoSurlev1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.pdb
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.dll.config
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.dll
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\bin\CS4BoykoSurlev1.pdb
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.csprojResolveAssemblyReference.cache
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.dll
+C:\Users\bobkoo\Documents\Visual Studio 2013\Projects\Assignments\BoykoSurlevCS4.1\CS4BoykoSurlev1\obj\Debug\CS4BoykoSurlev1.pdb
